@@ -1,0 +1,3 @@
+Cześć. te dwa foldery przeciągasz do folderu z Twoim botem, jeżeli nie zadziała, wrzuć również do katalogu Discord Bot Maker'a.
+
+© Copyright KRINDEX
