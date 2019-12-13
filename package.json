@@ -16,7 +16,7 @@
     "pg-hstore": "^2.3.3",
     "replace-string": "^3.0.0",
     "request": "^2.88.0",
-    "sequelize": "^5.13.0",
+    "sequelize": "^5.15.1",
     "sqlite3": "^4.0.9",
     "tedious": "^6.3.0",
     "valid-url": "^1.0.9",
